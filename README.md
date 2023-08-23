@@ -17,6 +17,6 @@ Recuerda configurar la base de datos con tus credenciales de inicio de sesión, 
 
 
 
-Configurar la base de datos con sus credenciales
+# Configurar la base de datos con sus credenciales
 
 ![image](https://github.com/ricardogomez99/proyectoCarteleraCine/assets/92341478/3087987b-36c3-4929-a6a7-d2361f0b851c)
